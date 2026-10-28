@@ -1,0 +1,10 @@
+D:\c# folder\Example_Of_Week_FOUR\Example_Of_Week_FOUR\bin\Debug\Example_Of_Week_FOUR.exe.config
+D:\c# folder\Example_Of_Week_FOUR\Example_Of_Week_FOUR\bin\Debug\Example_Of_Week_FOUR.exe
+D:\c# folder\Example_Of_Week_FOUR\Example_Of_Week_FOUR\bin\Debug\Example_Of_Week_FOUR.pdb
+D:\c# folder\Example_Of_Week_FOUR\Example_Of_Week_FOUR\obj\Debug\Example_Of_Week_FOUR.csproj.AssemblyReference.cache
+D:\c# folder\Example_Of_Week_FOUR\Example_Of_Week_FOUR\obj\Debug\Example_Of_Week_FOUR.Form1.resources
+D:\c# folder\Example_Of_Week_FOUR\Example_Of_Week_FOUR\obj\Debug\Example_Of_Week_FOUR.Properties.Resources.resources
+D:\c# folder\Example_Of_Week_FOUR\Example_Of_Week_FOUR\obj\Debug\Example_Of_Week_FOUR.csproj.GenerateResource.cache
+D:\c# folder\Example_Of_Week_FOUR\Example_Of_Week_FOUR\obj\Debug\Example_Of_Week_FOUR.csproj.CoreCompileInputs.cache
+D:\c# folder\Example_Of_Week_FOUR\Example_Of_Week_FOUR\obj\Debug\Example_Of_Week_FOUR.exe
+D:\c# folder\Example_Of_Week_FOUR\Example_Of_Week_FOUR\obj\Debug\Example_Of_Week_FOUR.pdb
